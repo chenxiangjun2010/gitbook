@@ -6,7 +6,7 @@
 
 - `git push --set-upstream origin  'name'` (在服务器创建远程的仓库，和本地仓库名称一致)
 
-- `git checkoutout 'name'` (切换到name分支)
+- `git checkout 'name'` (切换到name分支)
 - `git status` (查看本地分支修改了哪些内容)
 - `git diff` (比较当前版本和之前的版本修改了哪些)
 - `git checkout -- '路径'` (剔除不想提交的文件)
