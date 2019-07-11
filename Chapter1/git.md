@@ -14,7 +14,7 @@
 - `git commit --m '注释'` (提交时候加的注释)
 - `git checkout dev` 
 - `git pull`
-- `git checkout 'name'`
+- `git checkout 'name'` (切换到name分支)
 - `git merge dev` (将dev分支合并到自己的分支)
 - `git checkout dev`
 - `git merge 'name'`(dev合并本地的分支)
