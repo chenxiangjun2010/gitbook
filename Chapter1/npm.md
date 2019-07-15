@@ -24,7 +24,7 @@
 | npm uninstall react -g          | yarn global remove react     |
 | npm update --save               | yarn upgrade                 |
 | npm cache clean --f             | yarn cache clean             |
-| npm reubild(重新下载所有包)     | yarn install --force         |
+| npm reubild(重新下载所有包)      | yarn install --force         |
 
 
 
