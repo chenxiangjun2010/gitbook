@@ -116,3 +116,18 @@ html {
 }
 ```
 
+
+
+
+
+### 全屏灰
+
+```css
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+filter: grayscale(100%);
+filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);  /* ie */
+filter: gray; /* ie6~ie9 */
+```
+
